@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/botTelegram/static/css/main.8a57c41f.chunk.css",
-    "main.js": "/botTelegram/static/js/main.87f25bf2.chunk.js",
-    "main.js.map": "/botTelegram/static/js/main.87f25bf2.chunk.js.map",
-    "runtime-main.js": "/botTelegram/static/js/runtime-main.355592e3.js",
-    "runtime-main.js.map": "/botTelegram/static/js/runtime-main.355592e3.js.map",
-    "static/js/2.2d40e1a3.chunk.js": "/botTelegram/static/js/2.2d40e1a3.chunk.js",
-    "static/js/2.2d40e1a3.chunk.js.map": "/botTelegram/static/js/2.2d40e1a3.chunk.js.map",
-    "index.html": "/botTelegram/index.html",
-    "precache-manifest.11ba04ea507c5fae97d2414f28962a75.js": "/botTelegram/precache-manifest.11ba04ea507c5fae97d2414f28962a75.js",
-    "service-worker.js": "/botTelegram/service-worker.js",
-    "static/css/main.8a57c41f.chunk.css.map": "/botTelegram/static/css/main.8a57c41f.chunk.css.map",
-    "static/js/2.2d40e1a3.chunk.js.LICENSE.txt": "/botTelegram/static/js/2.2d40e1a3.chunk.js.LICENSE.txt"
+    "main.css": "/telegramJBot/static/css/main.8a57c41f.chunk.css",
+    "main.js": "/telegramJBot/static/js/main.913c3761.chunk.js",
+    "main.js.map": "/telegramJBot/static/js/main.913c3761.chunk.js.map",
+    "runtime-main.js": "/telegramJBot/static/js/runtime-main.2e19db7b.js",
+    "runtime-main.js.map": "/telegramJBot/static/js/runtime-main.2e19db7b.js.map",
+    "static/js/2.2d40e1a3.chunk.js": "/telegramJBot/static/js/2.2d40e1a3.chunk.js",
+    "static/js/2.2d40e1a3.chunk.js.map": "/telegramJBot/static/js/2.2d40e1a3.chunk.js.map",
+    "index.html": "/telegramJBot/index.html",
+    "precache-manifest.0db313343f0fd35db650645676b82906.js": "/telegramJBot/precache-manifest.0db313343f0fd35db650645676b82906.js",
+    "service-worker.js": "/telegramJBot/service-worker.js",
+    "static/css/main.8a57c41f.chunk.css.map": "/telegramJBot/static/css/main.8a57c41f.chunk.css.map",
+    "static/js/2.2d40e1a3.chunk.js.LICENSE.txt": "/telegramJBot/static/js/2.2d40e1a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.355592e3.js",
+    "static/js/runtime-main.2e19db7b.js",
     "static/js/2.2d40e1a3.chunk.js",
     "static/css/main.8a57c41f.chunk.css",
-    "static/js/main.87f25bf2.chunk.js"
+    "static/js/main.913c3761.chunk.js"
   ]
 }
