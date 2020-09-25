@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/telegramJBot/static/css/main.8a57c41f.chunk.css",
-    "main.js": "/telegramJBot/static/js/main.913c3761.chunk.js",
-    "main.js.map": "/telegramJBot/static/js/main.913c3761.chunk.js.map",
+    "main.js": "/telegramJBot/static/js/main.5457bbe0.chunk.js",
+    "main.js.map": "/telegramJBot/static/js/main.5457bbe0.chunk.js.map",
     "runtime-main.js": "/telegramJBot/static/js/runtime-main.2e19db7b.js",
     "runtime-main.js.map": "/telegramJBot/static/js/runtime-main.2e19db7b.js.map",
     "static/js/2.2d40e1a3.chunk.js": "/telegramJBot/static/js/2.2d40e1a3.chunk.js",
     "static/js/2.2d40e1a3.chunk.js.map": "/telegramJBot/static/js/2.2d40e1a3.chunk.js.map",
     "index.html": "/telegramJBot/index.html",
-    "precache-manifest.0db313343f0fd35db650645676b82906.js": "/telegramJBot/precache-manifest.0db313343f0fd35db650645676b82906.js",
+    "precache-manifest.2567bbae82bd45a56caa530c90791421.js": "/telegramJBot/precache-manifest.2567bbae82bd45a56caa530c90791421.js",
     "service-worker.js": "/telegramJBot/service-worker.js",
     "static/css/main.8a57c41f.chunk.css.map": "/telegramJBot/static/css/main.8a57c41f.chunk.css.map",
     "static/js/2.2d40e1a3.chunk.js.LICENSE.txt": "/telegramJBot/static/js/2.2d40e1a3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2e19db7b.js",
     "static/js/2.2d40e1a3.chunk.js",
     "static/css/main.8a57c41f.chunk.css",
-    "static/js/main.913c3761.chunk.js"
+    "static/js/main.5457bbe0.chunk.js"
   ]
 }
