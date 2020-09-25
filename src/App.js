@@ -27,7 +27,7 @@ function App() {
   useEffect(() => {
     setItemPrice(0)
     data.map(e => {
-      setItemPrice(prevState => prevState + (e.discount_price || e.price * e.quantity))
+      setItemPrice(prevState => e.discount_price ? prevState + (e.discount_price * e.quantity) : prevState + (e.price * e.quantity))
     })
   }, [data])
 
