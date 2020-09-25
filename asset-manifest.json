@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/botTelegram/static/css/main.8a57c41f.chunk.css",
+    "main.js": "/botTelegram/static/js/main.87f25bf2.chunk.js",
+    "main.js.map": "/botTelegram/static/js/main.87f25bf2.chunk.js.map",
+    "runtime-main.js": "/botTelegram/static/js/runtime-main.355592e3.js",
+    "runtime-main.js.map": "/botTelegram/static/js/runtime-main.355592e3.js.map",
+    "static/js/2.2d40e1a3.chunk.js": "/botTelegram/static/js/2.2d40e1a3.chunk.js",
+    "static/js/2.2d40e1a3.chunk.js.map": "/botTelegram/static/js/2.2d40e1a3.chunk.js.map",
+    "index.html": "/botTelegram/index.html",
+    "precache-manifest.11ba04ea507c5fae97d2414f28962a75.js": "/botTelegram/precache-manifest.11ba04ea507c5fae97d2414f28962a75.js",
+    "service-worker.js": "/botTelegram/service-worker.js",
+    "static/css/main.8a57c41f.chunk.css.map": "/botTelegram/static/css/main.8a57c41f.chunk.css.map",
+    "static/js/2.2d40e1a3.chunk.js.LICENSE.txt": "/botTelegram/static/js/2.2d40e1a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.355592e3.js",
+    "static/js/2.2d40e1a3.chunk.js",
+    "static/css/main.8a57c41f.chunk.css",
+    "static/js/main.87f25bf2.chunk.js"
+  ]
+}
